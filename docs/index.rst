@@ -6,7 +6,7 @@ When you've already bought a reliable antivirus program like Bitdefender, the ne
 .. raw:: html
 
    <div style="text-align:center;">
-       <a href="https://bitdefenderdesk.hostlink.click/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Bitdefender</a>
+       <a href="https://mybitdefender.vercel.app/" rel="noreferrer" style="background-color:#007BFF;color:white;padding:10px 20px;text-decoration:none;border-radius:5px;display:inline-block;font-weight:bold;">Get Started with Bitdefender</a>
    </div>
 
 Many users are unsure about where to begin after making a purchase. Common questions include: Do I need a CD? Can I use the same key on multiple devices? Where do I enter my activation code? If you're looking for answers, this guide covers everything from activation to setup. With just a few steps, you can **install Bitdefender already purchased** and secure your system against threats.
@@ -168,3 +168,4 @@ To recap:
 - Sign in and start protecting your PC
 
 With these steps completed, your Windows computer is now safeguarded by Bitdefender’s award-winning technology. Regular updates and real-time scanning will keep you one step ahead of online threats, ensuring that your data remains secure.
+
