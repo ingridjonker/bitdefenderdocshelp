@@ -168,4 +168,3 @@ To recap:
 - Sign in and start protecting your PC
 
 With these steps completed, your Windows computer is now safeguarded by Bitdefender’s award-winning technology. Regular updates and real-time scanning will keep you one step ahead of online threats, ensuring that your data remains secure.
-
